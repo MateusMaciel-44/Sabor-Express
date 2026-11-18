@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
